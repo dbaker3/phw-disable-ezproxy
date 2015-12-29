@@ -1,5 +1,5 @@
 # PHW Disable EZproxy
-WordPress Plugin that disables OCLC EZproxy in proxied links. 
+Simple WordPress Plugin that disables OCLC EZproxy in proxied links. 
 
 ## Use
 + Enable this plugin when EZproxy server is down for whatever reason.
